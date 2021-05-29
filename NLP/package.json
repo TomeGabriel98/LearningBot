@@ -54,7 +54,7 @@
     "handlebars": "^4.0.14",
     "microjob": "^0.3.0",
     "novel-segment": "^2.0.42",
-    "ws": "^6.1.2",
+    "ws": "^7.4.6",
     "xlsx": "^0.14.0"
   },
   "keywords": [
